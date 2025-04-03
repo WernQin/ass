@@ -27,7 +27,7 @@
     <a href="/"></a>
 
         <?php if ($_user): ?>
-            <a href="/demo1.php">Demo 1</a>
+            <a href="/demo1.php">Demo 12</a>
         <?php endif ?>
 
         <?php if ($_user?->role == 'Admin'): ?>
